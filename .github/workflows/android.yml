@@ -38,8 +38,8 @@ jobs:
         uses: wzieba/Firebase-Distribution-Github-Action@v1.2.2
         with:
           appId: '1:262245195764:android:ead091445b5f58c506e3a1'
-          token: '1//03OkeMUR7MaiRCgYIARAAGAMSNwF-L9IrM25sgBYnS8mRqpyehtxvMZvhKpJ_DX8NpbqTkLoYG1WvH37Y0p0dOM0oPDTrHkFk09g'
-          groups: CI-CD-testers
+          token: '1//09VBwewBoDN69CgYIARAAGAkSNwF-L9Irki4-B2WiqPDM-QT4P-SLEhFYdPq80fnRmE2ZOEmQQxHHf5nBFKv0cDUrsd2ZFD8BpZQ'
+          groups: testers
           file: app/build/outputs/apk/debug/app-debug.apk
 
   apk:
